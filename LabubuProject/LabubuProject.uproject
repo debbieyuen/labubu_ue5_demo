@@ -53,6 +53,10 @@
 		{
 			"Name": "MetaHumanLiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "MQTT",
+			"Enabled": true
 		}
 	]
 }
